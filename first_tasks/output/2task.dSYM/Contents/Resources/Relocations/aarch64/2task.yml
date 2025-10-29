@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/yowlxc/itmo/cpp/1course-cpp/first_tasks/output/2task'
+relocations:     []
+...
